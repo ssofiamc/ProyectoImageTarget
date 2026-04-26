@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HomeScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ImageTarget.unity
+    guid: 814394e5fba4acf44ad6b07c55415a24
+  - enabled: 1
+    path: Assets/Scenes/MultiTarget.unity
+    guid: b685be24f549a0b408202b224571fb67
+  - enabled: 1
+    path: Assets/Scenes/GroundPlane.unity
+    guid: 8da6db057c06c0e41a4583b920330cf3
+  - enabled: 1
+    path: Assets/Scenes/Joystick.unity
+    guid: 66eb86746f66fd547b7fb24452119356
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d2c80d2c9d16d94478bc2c0fc45f81a9, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

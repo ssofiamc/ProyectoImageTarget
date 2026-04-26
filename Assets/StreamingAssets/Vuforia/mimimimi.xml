@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Minecraft6" size="0.080000 0.045000" />
+    <ImageTarget name="Minecraft5" size="0.080000 0.043031" />
+    <ImageTarget name="Minecraft4" size="0.080000 0.045000" />
+    <ImageTarget name="Minecraft3" size="0.080000 0.080000" />
+    <ImageTarget name="Minecraft2" size="0.080000 0.080000" />
+    <ImageTarget name="Minecraft1" size="0.080000 0.045015" />
+    <ImageTarget name="GatoMC1" size="0.080000 0.080000" />
     <ImageTarget name="gato" size="0.900000 0.506250" />
   </Tracking>
 </QCARConfig>
