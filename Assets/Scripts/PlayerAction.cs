@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerAction : MonoBehaviour
 {
     public Rigidbody playerRb;
-    public float jumpForce = 1f;
+    public float jumpForce = 15f;
 
     public void Jump()
     {
